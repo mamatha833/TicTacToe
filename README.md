@@ -2,10 +2,10 @@
  <p>
    This Tic-Tac-Toe game project demonstrates essential Java programming concepts, including object-oriented principles like
    <ul>
-       <li><Classes</li>
+       <li>Classes</li>
        <li>Objects</li>
-        <li>Arrays</li>
-       <liInheritance</li>
+       <li>Arrays</li>
+       <li></li>Inheritance</li>
        <li>Ploymorphism</li>
        <li>Abstrcation</li>
    </ul>
