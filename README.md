@@ -7,7 +7,7 @@
        <li>Arrays</li>
        <li>Inheritance</li>
        <li>Ploymorphism</li>
-       <li>Abstrcation</li>
+       <li>Abstraction</li>
    </ul>
  <pre>Here's the class Digram of the Project for better understanding</p>
  +------------------------------+
