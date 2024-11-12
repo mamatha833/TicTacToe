@@ -9,8 +9,8 @@
        <li>Ploymorphism</li>
        <li>Abstrcation</li>
    </ul>
- <p>Here's the class Digram of the Project for better understanding</p>
-         +------------------------------+
+ <pre>Here's the class Digram of the Project for better understanding</p>
+ +------------------------------+
 |    TicTacToe                 |
 +------------------------------|
 |   board: char[][]            |
@@ -58,4 +58,4 @@
 |  main(args: String[]): void  |
 +------------------------------+
 
- </p>
+ </pre>
