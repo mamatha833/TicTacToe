@@ -5,7 +5,7 @@
        <li>Classes</li>
        <li>Objects</li>
        <li>Arrays</li>
-       <li></li>Inheritance</li>
+       <li>Inheritance</li>
        <li>Ploymorphism</li>
        <li>Abstrcation</li>
    </ul>
